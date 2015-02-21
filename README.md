@@ -1,6 +1,6 @@
 # Instrumentation_lab_2
 
-##This code is for NYUAD intrumentation class Lab 2 -- Linerizing Force Sensitive Resistor"```
+##This code is for NYUAD intrumentation class Lab 2 -- Linerizing Force Sensitive Resistor"
 
 In situations where the Matlab library method doesn't work, try this instead.
 
